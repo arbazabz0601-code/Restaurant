@@ -1,0 +1,25 @@
+{
+  "name": "zomatoapi",
+  "version": "1.0.0",
+  "description": "Frontend React app for Zomato-style API",
+  "author": "Hacker",
+  "license": "ISC",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "Safari >= 13",
+    "Edge >= 18"
+  ]
+}
